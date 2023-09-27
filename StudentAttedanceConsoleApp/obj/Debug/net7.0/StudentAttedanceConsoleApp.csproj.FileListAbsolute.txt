@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\bin\Debug\net7.0\StudentAttedanceConsoleApp.exe
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\bin\Debug\net7.0\StudentAttedanceConsoleApp.deps.json
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\bin\Debug\net7.0\StudentAttedanceConsoleApp.runtimeconfig.json
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\bin\Debug\net7.0\StudentAttedanceConsoleApp.dll
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\bin\Debug\net7.0\StudentAttedanceConsoleApp.pdb
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.dll
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\refint\StudentAttedanceConsoleApp.dll
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.pdb
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\StudentAttedanceConsoleApp.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Yazılım\YMYP\Projeler\FirstConsoleSolution\StudentAttedanceConsoleApp\obj\Debug\net7.0\ref\StudentAttedanceConsoleApp.dll
